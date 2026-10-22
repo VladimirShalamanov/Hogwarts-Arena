@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d43fe4f1-455a-4429-86f1-0dd82bcbb00e" name="Changes" comment="" />
+    <list default="true" id="d43fe4f1-455a-4429-86f1-0dd82bcbb00e" name="Changes" comment="Add service, repository and web layer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756654075242</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add config and exe files">
+      <option name="closed" value="true" />
+      <created>1792597769595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1792597769595</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add service, repository and web layer">
+      <option name="closed" value="true" />
+      <created>1792598125760</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1792598125760</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +216,9 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="final state" />
-    <option name="LAST_COMMIT_MESSAGE" value="final state" />
+    <MESSAGE value="Add config and exe files" />
+    <MESSAGE value="Add service, repository and web layer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add service, repository and web layer" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hogwarts_Arena$Application.ic" NAME="Application Coverage Results" MODIFIED="1755109297242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
